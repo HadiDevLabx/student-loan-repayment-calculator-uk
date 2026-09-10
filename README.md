@@ -31,7 +31,31 @@ Each plan is written off after 25 to 40 years. Most borrowers never clear the ba
 
 Free, no sign-up, runs in your browser. Your figures are never sent anywhere.
 
-## Related calculators
+## Worked examples at real salaries
+
+Full deduction breakdowns, computed on 2026/27 rates:
+
+| Salary | Take-home a year | Take-home a month |
+|---|---:|---:|
+| [£30,000 after tax](https://truetakehome.co.uk/salary/30000/) | £25,119.60 | £2,093.30 |
+| [£45,000 after tax](https://truetakehome.co.uk/salary/45000/) | £35,919.60 | £2,993.30 |
+| [£60,000 after tax](https://truetakehome.co.uk/salary/60000/) | £45,357.40 | £3,779.78 |
+| [£100,000 after tax](https://truetakehome.co.uk/salary/100000/) | £68,557.40 | £5,713.12 |
+
+## Related tools
+
+- [Payslip checker](https://truetakehome.co.uk/payslip-checker/) — confirm your payslip is deducting the right plan
+- [Pay rise calculator](https://truetakehome.co.uk/pay-rise-calculator/) — see how much of a rise the loan takes
+- [Salary sacrifice calculator](https://truetakehome.co.uk/salary-sacrifice-calculator/) — pension sacrifice reduces the pay the loan is charged on
+
+## Check the figures yourself
+
+- [UK tax rates and thresholds 2026/27](https://truetakehome.co.uk/tax-rates/2026-27/) — every band and threshold on one page
+- [Take-home pay statistics](https://truetakehome.co.uk/statistics/) — effective and marginal rates from £20,000 to £200,000, free to cite
+- [How the calculator works](https://truetakehome.co.uk/about/) — the order of calculation and the source for every rate
+- [rates.json](https://truetakehome.co.uk/rates.json) — the same figures as machine-readable JSON, no key required
+
+## Related calculators on GitHub
 
 - [Salary Sacrifice Calculator UK](https://github.com/HadiDevLabx/salary-sacrifice-calculator-uk)
 - [Pension Tax Relief Calculator UK](https://github.com/HadiDevLabx/pension-tax-relief-calculator-uk)
